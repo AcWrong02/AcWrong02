@@ -13,9 +13,9 @@
 </div>
 
 ###  🚀About Me
-- 👋 Hi, I’m @AcWrong02
+- 👋 Hi, I’m @AcWrong02,a college student.
 - 👀 I’m interested in FrontEnd.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Go and Nest.
 
 ### ⚙️GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=AcWrong02" />

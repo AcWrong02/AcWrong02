@@ -13,9 +13,8 @@
 </div>
 
 ###  🚀About Me
-- 👋 Hi, I’m @AcWrong02,a college student.
+- 👋 Hi, I’m @AcWrong02,.work in KingSoft Office.
 - 👀 I’m interested in FrontEnd.
-- 🌱 I’m currently learning Go and Nest.
 
 ### ⚙️GitHub Analytics
 <img src="https://github-readme-stats.vercel.app/api?username=AcWrong02" />
